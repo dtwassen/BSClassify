@@ -23,8 +23,8 @@ Then simply execute the following. Exchange datxDummy and datyDummy with your re
 
 About
 -----
-I'm with the institute of medical psychology and behavioral neurobiology and the computer science department of the
-University of Tuebingen, Germany. I'm fascinated by machine learning. If you have questions, want to say hello, or have
+I'm with the institute of Medical Psychology and Behavioral Neurobiology and the Computer Science department of the
+University of Tuebingen, Germany. I'm fascinated by machine learning. If you want to say hello or have
 question, please drop me an e-mail.
 
 __dthettich@gmail.com__
