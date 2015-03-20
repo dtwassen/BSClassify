@@ -19,7 +19,7 @@ Then simply execute the following. Exchange datxDummy and datyDummy with your re
 	% example.m
 	datxDummy = rand(100,29,100); 	% generate random dummy data
 	datyDummy = ones(100,1);		% generate dummy labels 
-	datyDummy(50:100) = 2;			% balanced classes 50/50
+	datyDummy(51:100) = 2;			% balanced classes 50/50
 	[acc, auc, cf1] = mlSVMR2( datxDummy, datyDummy );	% classify and compute performance
 
 About
