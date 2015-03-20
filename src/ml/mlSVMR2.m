@@ -1,7 +1,7 @@
 function [acc, auc, cf1] = mlSVMR2( datx, daty )
 %% Classification of data datx and labels daty using linear support vector
 % machine (SVM) in the implementation by Chang & Lin (2011), feature
-% reduction by R2-values (Sp?ler et. al. 2011). Performance measures
+% reduction by R2-values (Spueler et. al. 2011). Performance measures
 % accuracy, AUC-values and F1-scores are obtained in 10-fold
 % cross-validation.
 %
