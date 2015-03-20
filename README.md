@@ -15,6 +15,7 @@ Usage
 -----
 Import the source folder to your MATLAB path. Make sure correct libsvm binaries are also added to your path.
 Then simply execute the following. Exchange datxDummy and datyDummy with your real data and labels.
+
 	% example.m
 	datxDummy = rand(100,29,100); 	% generate random dummy data
 	datyDummy = ones(100,1);		% generate dummy labels 
