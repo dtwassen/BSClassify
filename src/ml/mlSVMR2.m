@@ -79,7 +79,7 @@ for fold=1:CVO.NumTestSets
     
     % assign label and probabilities of predictions
     datyPredict(teIdx) = datyPredictLinear;
-    probAll(teIdx) = prob(:,1);
+    probAll(teIdx) = prob(:,2);
 end
 
 %% compute performance measures
